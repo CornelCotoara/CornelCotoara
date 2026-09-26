@@ -5,7 +5,9 @@ Senior Network / Cloud Operations Engineer with a generous amount of years in IT
 Outside work, I run a home-lab environment (Proxmox, virtual firewalls/infra, k3s, Debian & RHEL based Linux) to test and validate networking, DNS, and automation concepts before they matter in production.
 
 **Pinned repos:**
-- `pihole-private-dns` — private DNS filtering setup, containerized
+
 - homelab / k3s notes — Kubernetes on bare metal (MetalLB, Traefik, Pi-hole HA)
+- n8n-local - k3s deployment
+- `pihole-private-dns` — private DNS filtering setup, containerized
 
 📫 cornel.cotoara@gmail.com | [LinkedIn](https://www.linkedin.com/in/cornelcotoara-28aa03224)
