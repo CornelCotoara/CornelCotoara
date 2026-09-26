@@ -1,13 +1,11 @@
-### Hi, I'm Cornel 👋
+Hi, I'm Cornel 👋
 
-Senior Network / Cloud Operations Engineer with a generous amount of years in IT — firewalls, Linux, and cloud networking (Oracle OCI, Azure). I focus on production-facing reliability, structured incident response, and safe change execution.
+Senior Network / Cloud Operations Engineer (20+ years in IT) with hands-on depth in multi-vendor firewalls (Palo Alto/Panorama, Cisco, SonicWall), Linux/Unix, and cloud networking (Oracle OCI, Azure) — NAT/ACL, IPsec VPN, DNS, TLS lifecycle, and structured incident response in production environments.
 
-Outside work, I run a home-lab environment (Proxmox, virtual firewalls/infra, k3s, Debian & RHEL based Linux) to test and validate networking, DNS, and automation concepts before they matter in production.
+Currently pivoting toward DevOps/Platform Engineering. I run a home-lab (Proxmox → k3s on Rocky Linux 9) to build and validate Kubernetes, networking, and observability concepts before they matter in production: MetalLB, Traefik, Pi-hole HA with DNS-over-HTTPS, and a Prometheus/Grafana stack for cluster and service monitoring.
 
-**Pinned repos:**
+Pinned repos:
 
-- homelab / k3s notes — Kubernetes on bare metal (MetalLB, Traefik, Pi-hole HA)
-- n8n-local - k3s deployment
-- `pihole-private-dns` — private DNS filtering setup, containerized
-
-📫 cornel.cotoara@gmail.com | [LinkedIn](https://www.linkedin.com/in/cornelcotoara-28aa03224)
+homelab-k3s — Kubernetes on bare metal: MetalLB, Traefik, Pi-hole HA, Prometheus/Grafana monitoring
+n8n-k3s — n8n workflow automation deployment on k3s
+pihole-private-dns — containerized private DNS filtering with DoH #old
